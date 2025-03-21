@@ -8,10 +8,10 @@ authors:
     given-names: "Josiah"
     orcid: "https://orcid.org/0000-0002-1825-0097"
 title: "TUTORIAL_TITLE_HERE"
-doi: "10.1000/182"
 date-released: YYYY-MM-DD
+doi: "10.1000/182"
 repository-code: "https://github.com/lmu-osc/TUTORIAL_REPO"
-url: "https://github.com/lmu-osc/"
+url: "https://lmu-osc.github.io/TUTORIAL_REPO/"
 preferred-citation:
   authors:
     - family-names: "YOUR_LAST_NAME_HERE"
@@ -21,8 +21,8 @@ preferred-citation:
       given-names: "Josiah"
       orcid: "https://orcid.org/0000-0002-1825-0097"
   title: "TUTORIAL_TITLE_HERE"
-  doi: "10.1000/182"
   year: YYYY
+  doi: "10.1000/182"
   publisher:
     name: "LMU Open Science Center"
     ror: "https://ror.org/029e6qe04"
