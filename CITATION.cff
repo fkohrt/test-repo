@@ -16,7 +16,7 @@ preferred-citation:
   authors:
     - family-names: "YOUR_LAST_NAME_HERE"
       given-names: YOUR_FIRST_NAME_HERE"
-      "https://orcid.org/0000-0000-0000-0000"
+      orcid: "https://orcid.org/0000-0000-0000-0000"
     - family-names: "Carberry"
       given-names: "Josiah"
       orcid: "https://orcid.org/0000-0002-1825-0097"
