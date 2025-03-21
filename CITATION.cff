@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you refer to this tutorial, please cite it as below."
+authors:
+- family-names: "YOUR_LAST_NAME_HERE"
+  given-names: "YOUR_FIRST_NAME_HERE"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Carberry"
+  given-names: "Josiah"
+  orcid: "https://orcid.org/0000-0002-1825-0097"
+title: "TUTORIAL_TITLE_HERE"
+doi: "DOI_HERE"
+date-released: YYYY-MM-DD
+repository-code: "https://github.com/lmu-osc/"
+url: "https://github.com/lmu-osc/"
+preferred-citation:
+  authors:
+    - family-names: "YOUR_LAST_NAME_HERE"
+      given-names: YOUR_FIRST_NAME_HERE"
+      "https://orcid.org/0000-0000-0000-0000"
+    - family-names: "Carberry"
+      given-names: "Josiah"
+      orcid: "https://orcid.org/0000-0002-1825-0097"
+  title: "TUTORIAL_TITLE_HERE"
+  doi: "DOI_HERE"
+  date-released: YYYY-MM-DD
+  repository-code: "https://github.com/lmu-osc/"
+  url: "https://github.com/lmu-osc/"
+  type: "website"
