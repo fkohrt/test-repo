@@ -22,8 +22,10 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0002-1825-0097"
   title: "TUTORIAL_TITLE_HERE"
   doi: "DOI_HERE"
-  date-released: YYYY-MM-DD
-  publisher: "LMU Open Science Center"
+  year: YYYY
+  publisher:
+    name: "LMU Open Science Center"
+    ror: "https://ror.org/029e6qe04"
   repository-code: "https://github.com/lmu-osc/"
   url: "https://github.com/lmu-osc/"
-  type: "website"
+  type: "book"
