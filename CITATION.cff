@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you refer to this tutorial, please cite it as below."
 authors:
-- family-names: "YOUR_LAST_NAME_HERE"
-  given-names: "YOUR_FIRST_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Carberry"
-  given-names: "Josiah"
-  orcid: "https://orcid.org/0000-0002-1825-0097"
+  - family-names: "YOUR_LAST_NAME_HERE"
+    given-names: "YOUR_FIRST_NAME_HERE"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Carberry"
+    given-names: "Josiah"
+    orcid: "https://orcid.org/0000-0002-1825-0097"
 title: "TUTORIAL_TITLE_HERE"
 doi: "10.1000/182"
 date-released: YYYY-MM-DD
