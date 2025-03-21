@@ -10,7 +10,7 @@ authors:
 title: "TUTORIAL_TITLE_HERE"
 doi: "10.1000/182"
 date-released: YYYY-MM-DD
-repository-code: "https://github.com/lmu-osc/"
+repository-code: "https://github.com/lmu-osc/TUTORIAL_REPO"
 url: "https://github.com/lmu-osc/"
 preferred-citation:
   authors:
