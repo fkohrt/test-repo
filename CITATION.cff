@@ -23,6 +23,7 @@ preferred-citation:
   title: "TUTORIAL_TITLE_HERE"
   doi: "DOI_HERE"
   date-released: YYYY-MM-DD
+  institution: "LMU Open Science Center"
   repository-code: "https://github.com/lmu-osc/"
   url: "https://github.com/lmu-osc/"
   type: "website"
