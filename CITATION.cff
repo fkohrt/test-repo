@@ -15,7 +15,7 @@ url: "https://github.com/lmu-osc/"
 preferred-citation:
   authors:
     - family-names: "YOUR_LAST_NAME_HERE"
-      given-names: YOUR_FIRST_NAME_HERE"
+      given-names: "YOUR_FIRST_NAME_HERE"
       orcid: "https://orcid.org/0000-0000-0000-0000"
     - family-names: "Carberry"
       given-names: "Josiah"
