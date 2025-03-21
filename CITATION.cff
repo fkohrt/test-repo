@@ -26,6 +26,6 @@ preferred-citation:
   publisher:
     name: "LMU Open Science Center"
     ror: "https://ror.org/029e6qe04"
-  repository-code: "https://github.com/lmu-osc/"
-  url: "https://github.com/lmu-osc/"
+  repository-code: "https://github.com/lmu-osc/TUTORIAL_REPO"
+  url: "https://lmu-osc.github.io/TUTORIAL_REPO/"
   type: "book"
